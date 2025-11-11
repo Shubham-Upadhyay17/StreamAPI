@@ -1,5 +1,6 @@
 # StreamAPI
 Questions on streams in java 
+" " 
 **Super Easy**
 
 - [x] How do you create streams in java?
@@ -12,6 +13,8 @@ Questions on streams in java
 - [x] Find sum of even numbers in list
 - [x] Find the maximum number in the list
 - [x] Find sum of squares of even numbers in the list
+
+" "
 **Easy**
 
 - [x]  Find all distinct elements from the list(remove duplicates)
@@ -24,6 +27,8 @@ Questions on streams in java
 - [x] Flatten the list of list
 - [x] Find the first non empty string in a list
 - [x] Find the second highest element present in the list using streams
+
+" "
 **Intermediate**
 
 - [x] Sort list of employees by salary
