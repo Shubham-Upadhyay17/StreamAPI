@@ -1,8 +1,8 @@
-# StreamAPI
-Questions on streams in java 
-" " 
+#Stream-API
+Questions on Streams in Java
+--
 **Super Easy**
-
+--
 - [x] How do you create streams in java?
 - [x] Filter even numbers from list
 - [x] Convert numbers in the list to their squares
@@ -13,10 +13,9 @@ Questions on streams in java
 - [x] Find sum of even numbers in list
 - [x] Find the maximum number in the list
 - [x] Find sum of squares of even numbers in the list
-
-" "
+--
 **Easy**
-
+--
 - [x]  Find all distinct elements from the list(remove duplicates)
 - [x] Find the average of the number in the list
 - [x] Sort a list in asc and desc using streams
@@ -27,15 +26,17 @@ Questions on streams in java
 - [x] Flatten the list of list
 - [x] Find the first non empty string in a list
 - [x] Find the second highest element present in the list using streams
-
-" "
+--
 **Intermediate**
-
+--
 - [x] Sort list of employees by salary
-- [ ] Calculate the average age of a list of person objects using java streams
-- [ ] Partition numbers in odd and even lists
-- [ ] Count occurrences of each element in a list
-- [ ] Group employees by department and calculate average salary
-
+- [x] Calculate the average age of a list of person objects using java streams
+- [x] Partition numbers in odd and even lists
+- [x] Group employees by department and calculate average salary
+- [x] Find the highest paid employee in each department
+- [x] find all departments with more than one employee
+- [x] Find department with the highest average salary
+- [x] Find most frequent character in the string
+- [x] Find first non repeating character in the string 
 
 
