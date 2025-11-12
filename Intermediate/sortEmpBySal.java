@@ -16,6 +16,7 @@ public class sortEmpBySal {
                 new Employee(105,"Eshwar",90000)
         );
 
+        //Q. Sort list of employees by salary
         List<Employee> list = employeeList.stream()
                         .sorted(Comparator.comparing(Employee::getSalary)
                         .reversed()).toList();
