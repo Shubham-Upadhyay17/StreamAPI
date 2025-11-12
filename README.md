@@ -1,42 +1,84 @@
-#Stream-API
-Questions on Streams in Java
---
-**Super Easy**
---
-- [x] How do you create streams in java?
-- [x] Filter even numbers from list
-- [x] Convert numbers in the list to their squares
-- [x] Square even numbers from the list
-- [x] Find the first number greater than 10 from list
-- [x] Count how many numbers are greater than 5 in list
-- [x] Find sum/product of all the elements in the list
-- [x] Find sum of even numbers in list
-- [x] Find the maximum number in the list
-- [x] Find sum of squares of even numbers in the list
---
-**Easy**
---
-- [x]  Find all distinct elements from the list(remove duplicates)
-- [x] Find the average of the number in the list
-- [x] Sort a list in asc and desc using streams
-- [x] Count how many strings start with a specific letter(like "A")
-- [x] Join all the strings in a list to a single comma-separated string 
-- [x] Check if all elements are positive numbers
-- [x] Check if any number is divides by 3
-- [x] Flatten the list of list
-- [x] Find the first non empty string in a list
-- [x] Find the second highest element present in the list using streams
---
-**Intermediate**
---
-- [x] Sort list of employees by salary
-- [x] Calculate the average age of a list of person objects using java streams
-- [x] Partition numbers in odd and even lists
-- [x] Group employees by department and calculate average salary
-- [x] Find the highest paid employee in each department
-- [x] find all departments with more than one employee
-- [x] Find department with the highest average salary
-- [x] Find most frequent character in the string
-- [x] Find first non repeating character in the string 
+# ☕ Stream API – Java Practice Questions
 
+A curated list of **Java Stream API questions** categorized by difficulty — from beginner-friendly to intermediate-level exercises.  
+Perfect for practicing **functional programming concepts** and mastering **Java Streams**.
 
+---
+
+## 📘 Table of Contents
+- [Super Easy](#super-easy)
+- [Easy](#easy)
+- [Intermediate](#intermediate)
+
+---
+
+## 🌱 Super Easy
+
+✅ Basic operations to get started with Streams.
+
+- [x] Create streams in Java  
+- [x] Filter even numbers from a list  
+- [x] Convert numbers in a list to their squares  
+- [x] Square only even numbers  
+- [x] Find the first number greater than 10  
+- [x] Count numbers greater than 5  
+- [x] Find the sum/product of all elements  
+- [x] Find the sum of even numbers  
+- [x] Find the maximum number in the list  
+- [x] Find the sum of squares of even numbers  
+
+---
+
+## 🌼 Easy
+
+✅ Explore mapping, filtering, and aggregation with simple logic.
+
+- [x] Find all distinct elements (remove duplicates)  
+- [x] Calculate the average of numbers in the list  
+- [x] Sort a list in ascending and descending order using streams  
+- [x] Count how many strings start with a specific letter (e.g., "A")  
+- [x] Join all strings into a single comma-separated string  
+- [x] Check if all elements are positive numbers  
+- [x] Check if any number is divisible by 3  
+- [x] Flatten a list of lists  
+- [x] Find the first non-empty string in a list  
+- [x] Find the second highest element in the list  
+
+---
+
+## 🌻 Intermediate
+
+✅ Practice working with **custom objects**, **grouping**, and **advanced operations**.
+
+- [x] Sort a list of employees by salary  
+- [x] Calculate the average age of a list of person objects  
+- [x] Partition numbers into odd and even lists  
+- [x] Group employees by department and calculate average salary  
+- [x] Find the highest-paid employee in each department  
+- [x] Find all departments with more than one employee  
+- [x] Find the department with the highest average salary  
+- [x] Find the most frequent character in a string  
+- [x] Find the first non-repeating character in a string  
+
+---
+
+## 💡 About
+
+This repository contains **hands-on Stream API questions** to help you:
+- Build a strong understanding of Java’s functional style.
+- Practice real-world stream use cases.
+- Prepare for coding interviews involving stream operations.
+
+---
+
+## 🧑‍💻 Author
+**Shubham Upadhyay**  
+📍 *Java Developer | Spring Boot | SQL *
+
+---
+
+## ⭐ Contribute
+Found an interesting Stream question?  
+Feel free to **open a PR** or suggest it in the issues section!
+
+---
