@@ -1,20 +1,32 @@
-# ☕ Stream API – Java Practice Questions
+# ☕ Stream API – Java Practice Questions  
 
-A curated list of **Java Stream API questions** categorized by difficulty — from beginner-friendly to intermediate-level exercises.  
-Perfect for practicing **functional programming concepts** and mastering **Java Streams**.
+![Java](https://img.shields.io/badge/Java-Stream_API-orange?logo=openjdk)  
+![Category](https://img.shields.io/badge/Category-Coding_Practice-blue)  
+![Difficulty](https://img.shields.io/badge/Levels-Super_Easy_|_Easy_|_Intermediate_|_Hard-green)  
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  
+![License](https://img.shields.io/badge/License-MIT-lightgrey)  
+
+---
+
+A curated collection of **Java Stream API problems** organized by difficulty — from beginner-friendly to advanced exercises.  
+This repository helps you strengthen your understanding of **functional programming**, **lambda expressions**, and **stream operations** in Java.  
 
 ---
 
 ## 📘 Table of Contents
-- [Super Easy](#super-easy)
-- [Easy](#easy)
-- [Intermediate](#intermediate)
+- [🟢 Super Easy](#-super-easy)
+- [🟡 Easy](#-easy)
+- [🔵 Intermediate](#-intermediate)
+- [🔴 Hard](#-hard)
+- [💡 About](#-about)
+- [🧑‍💻 Author](#-author)
+- [⭐ Contribute](#-contribute)
 
 ---
 
-## 🌱 Super Easy
+## 🟢 Super Easy
 
-✅ Basic operations to get started with Streams.
+Basic operations to get started with Streams.
 
 - [x] Create streams in Java  
 - [x] Filter even numbers from a list  
@@ -29,9 +41,9 @@ Perfect for practicing **functional programming concepts** and mastering **Java 
 
 ---
 
-## 🌼 Easy
+## 🟡 Easy
 
-✅ Explore mapping, filtering, and aggregation with simple logic.
+Explore mapping, filtering, and aggregation with simple logic.
 
 - [x] Find all distinct elements (remove duplicates)  
 - [x] Calculate the average of numbers in the list  
@@ -46,9 +58,9 @@ Perfect for practicing **functional programming concepts** and mastering **Java 
 
 ---
 
-## 🌻 Intermediate
+## 🔵 Intermediate
 
-✅ Practice working with **custom objects**, **grouping**, and **advanced operations**.
+Work with custom objects, grouping, and advanced operations.
 
 - [x] Sort a list of employees by salary  
 - [x] Calculate the average age of a list of person objects  
@@ -62,23 +74,42 @@ Perfect for practicing **functional programming concepts** and mastering **Java 
 
 ---
 
+## 🔴 Hard
+
+Challenge-level problems involving advanced stream logic and nested operations.
+
+- [x] Find the most common first letter among all employee names  
+- [x] Given a list of integers, compute the average of every 3-element sliding window  
+- [x] Find the longest word in a sentence (ignoring punctuation and case)  
+- [x] Find the top 3 most frequent words in a paragraph  
+- [x] Reverse each word in a sentence using streams  
+
+---
+
 ## 💡 About
 
-This repository contains **hands-on Stream API questions** to help you:
-- Build a strong understanding of Java’s functional style.
-- Practice real-world stream use cases.
-- Prepare for coding interviews involving stream operations.
+This repository contains **hands-on Stream API exercises** designed to help you:
+- Master the functional programming paradigm in Java  
+- Practice real-world stream-based use cases  
+- Prepare for coding interviews and technical tests  
 
 ---
 
 ## 🧑‍💻 Author
+
 **Shubham Upadhyay**  
-📍 *Java Developer | Spring Boot | SQL *
+📍 *Java Developer | Spring Boot | SQL | Problem Solver*  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Shubham--Upadhyay17-black?logo=github)](https://github.com/Shubham-Upadhyay17)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-upadhyay0/)  
 
 ---
 
 ## ⭐ Contribute
-Found an interesting Stream question?  
-Feel free to **open a PR** or suggest it in the issues section!
+
+Got an interesting Stream challenge?  
+Feel free to **open a Pull Request** or suggest it in the **Issues** section!  
 
 ---
+
+> 💬 *“The best way to learn Streams is to use them — code, refactor, and experiment.”*
